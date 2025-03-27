@@ -1,4 +1,3 @@
-# firsoft-fga.github.io
 Hi. I work with Progress/Openedge since 1994 y. (start from Progress 8 to OE 12.8) in finance area ( Baltic banks) , <br/>
  from 2025 freelancer . <br/>
 I am the author of OE PDP ( OE parallel data processing) which is based in windows/linux IPC API . <br/>
