@@ -4,7 +4,7 @@ I am the author of OE PDP ( OE parallel data processing) which is based in windo
 Now based of this library work more than 10 services in 3 banks in Baltics . <br/>
 Also I created pwh_gear (progress webhandler gear) - tool for more easy use procedures/classes in OE PAS .  <br/>
 I will be happy to share my experience and knowledge. <br/>
-Best regards , Gennadi Firsov ( location Tallinn,Estonia) <br/> 
+Best regards , <br/> Gennadi Firsov ( location Tallinn,Estonia) <br/> 
         e-mail: <firsoffg@gmail.com> <br/> 
 phone/whatsapp: <a href="https://wa.me/3725136153">+3725136153</a> <br/>
 
