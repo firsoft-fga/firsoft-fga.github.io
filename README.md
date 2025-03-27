@@ -5,5 +5,6 @@ Now based of this library work more than 10 services in 3 banks in Baltics . <br
 Also I created pwh_gear (progress webhandler gear) - tool for more easy use procedures/classes in OE PAS .  <br/>
 I will be happy to share my experience and knowledge. <br/>
 Best regards , Gennadi Firsov ( location Tallinn,Estonia) <br/>
-e-mail : firsoffg@gmail.com phone/whatsapp: +372 5136 153 <br/>
+e-mail : <a href="firsoffg@gmail.com">firsoffg@gmail.com</a> <br/> 
+phone/whatsapp: +372 5136 153 <br/>
 
