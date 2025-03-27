@@ -1,4 +1,4 @@
-Hi. I work with Progress/Openedge since 1994 y. (start from Progress 8 to OE 12.8) in finance area ( Baltic banks) , <br/>
+Hi. I work with Progress/Openedge since 1994 y. (start from *Progress 8* to **OE 12.8**) in finance area ( Baltic banks) , <br/>
  from 2025 freelancer . <br/>
 I am the author of OE PDP ( OE parallel data processing) which is based in windows/linux IPC API . <br/>
 Now based of this library work more than 10 services in 3 banks in Baltics . <br/>
