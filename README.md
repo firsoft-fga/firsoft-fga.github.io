@@ -3,8 +3,9 @@ Hi. I work with Progress/Openedge since 1994 y. (start from *Progress 8* to **OE
  
 I am the author of **OE PDP** ( *OE parallel data processing*) which is based in windows/linux ipc api .   
 Now based of this library work more than 10 services in 3 banks in Baltics .   
-Also I created **pwh_gear** (progress webhandler gear) - tool for more easy use procedures/classes in PASOE :   
-<https://github.com/firsoft-fga/pwh_gear>  
+Also I created **pwh_gear** (progress webhandler gear) - tool for more easy use procedures/classes in PASOE . 
+Github:
+<https://github.com/firsoft-fga/>  
 
    
 I will be happy to share my experience and knowledge .
