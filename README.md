@@ -16,6 +16,6 @@ Best regards ,
 Gennadi Firsov ( location Tallinn,Estonia)    
         e-mail: <firsoffg@gmail.com>   
 phone/whatsapp: <a href="https://wa.me/3725136153">+3725136153</a>     
-Linkedin: www.linkedin.com/in/gennadi-firsov-5b9127249
+[Linkedin] (www.linkedin.com/in/gennadi-firsov-5b9127249)
 
 
