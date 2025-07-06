@@ -1,4 +1,6 @@
-Hi. I work with Progress/Openedge since 1994 y. (start from *Progress 8* to **OE 12.8**) in finance area ( Baltic banks ) ,   
+Hi.
+I am software developer from 1982 ( mainframe IBM 360/370 PL/1, assembler,JCL, GPSS, ADABAS,NATURAL) .
+I work with Progress/Openedge since 1994 y. (start from *Progress 8* on Sun Solaris to **OE 12.8** on Linux ) in finance area ( Baltic banks ) ,   
  since 2025 freelancer .  
  
 I am the author of **OE PDP** ( *OE parallel data processing*) which is based in windows/linux ipc api .   
