@@ -3,9 +3,11 @@ I am software developer from 1982 ( mainframe IBM 360/370 PL/1, assembler,JCL, G
 I work with Progress/Openedge since 1994 y. (start from *Progress 8* on Sun Solaris to **OE 12.8** on Linux ) in finance area ( Baltic banks ) ,   
  since 2025 freelancer .  
  
-I am the author of **OE PDP** ( *OE parallel data processing*) which is based in windows/linux ipc api .   
+I am the author of **OE PDP** ( *OE parallel data processing* - Reducing table processing time several times )
+which is based in windows/linux ipc api .   
 Now based of this library work more than 10 services in 3 banks in Baltics .   
-Also I created **pwh_gear** (progress webhandler gear) - tool for more easy use procedures/classes in PASOE .    
+Also I created **pwh_gear** (progress webhandler gear) - tool for more easy use procedures/classes in PASOE . 
+My last project : JSON-RPC implementation in Openedge 
 Github:    
 <https://github.com/firsoft-fga/>  
 
